@@ -1,5 +1,0 @@
-python-telegram-bot==13.19
-SQLAlchemy
-APScheduler
-reportlab
-pytz
